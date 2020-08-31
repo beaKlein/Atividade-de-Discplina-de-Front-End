@@ -1,0 +1,17 @@
+//Declaração de váriaveis mais valor //
+
+
+var numero1= 23
+var numero2= 22
+
+// Verificação do número //
+
+if(numero1>numero2){
+    alert (" O número " + numero1 + " é " + " maior que o " + numero2)
+    
+
+}
+
+else{
+    alert (" O número " + numero1 + " e o número " + numero2 + " são número iguais")
+}
